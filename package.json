@@ -1,0 +1,15 @@
+{
+  "name": "eleventy-pug-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx eleventy --dryrun"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eleventy": "^0.2.0"
+  }
+}
